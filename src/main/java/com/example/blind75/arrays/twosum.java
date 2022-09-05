@@ -1,4 +1,4 @@
-package com.greendot.arrays;
+package com.example.blind75.arrays;
 
 import java.util.Arrays;
 import java.util.List;

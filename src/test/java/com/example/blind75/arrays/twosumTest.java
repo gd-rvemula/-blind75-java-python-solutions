@@ -1,6 +1,4 @@
-package com.greendot.arrays;
-
-import org.junit.jupiter.api.Test;
+package com.example.blind75.arrays;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
